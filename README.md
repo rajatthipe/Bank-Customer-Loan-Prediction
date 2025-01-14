@@ -1,4 +1,4 @@
-# Bank-Customer-Loan-Prediction
+# Bank-Customer-Loan-Prediction (Accuracy of the model = 87%)
 
 ## Introduction
 
